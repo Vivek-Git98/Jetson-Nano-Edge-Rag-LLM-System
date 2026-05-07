@@ -1,0 +1,14 @@
+llm_env/
+models/
+data/
+
+*.gguf
+*.bin
+*.pkl
+*.dll
+*.exe
+
+__pycache__/
+*.pyc
+
+llama.cpp/build/
